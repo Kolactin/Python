@@ -5,10 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="127ecea5-98e6-4d7f-9c8a-8105130c32fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Aulas_python/aula06/06ex01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aulas_python/aula06/aula06a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aulas_python/aula06/aula06b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aulas_python/ex002/ex002.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,21 +29,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Python.06ex01.executor": "Debug",
-    "Python.aula06a.executor": "Debug",
-    "Python.aula06b.executor": "Debug",
-    "Python.ex000.executor": "Run",
-    "Python.ex001.executor": "Debug",
-    "Python.ex002 (1).executor": "Debug",
-    "Python.ex002.executor": "Debug",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Python.06ex01.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.aula06a.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.aula06b.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.ex000.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex001.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.ex002 (1).executor&quot;: &quot;Debug&quot;,
+    &quot;Python.ex002.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.06ex01">
     <configuration name="06ex01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
