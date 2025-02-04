@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="127ecea5-98e6-4d7f-9c8a-8105130c32fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Aulas_python/aula07/aula07a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/des05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/des06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/des07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/des08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/des09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/des10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/des11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/des12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/des13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/des14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/des15.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aulas_python/aula06/06ex01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aulas_python/aula06/06ex01.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,34 +29,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Python.06ex01.executor": "Debug",
-    "Python.aula06a.executor": "Debug",
-    "Python.aula06b.executor": "Debug",
-    "Python.aula07a.executor": "Debug",
-    "Python.des07.executor": "Debug",
-    "Python.des08.executor": "Debug",
-    "Python.des10.executor": "Debug",
-    "Python.des11.executor": "Debug",
-    "Python.des12.executor": "Debug",
-    "Python.des13.executor": "Debug",
-    "Python.des14.executor": "Debug",
-    "Python.desafio05.executor": "Debug",
-    "Python.desafios06.executor": "Debug",
-    "Python.dex09.executor": "Debug",
-    "Python.ex000.executor": "Run",
-    "Python.ex001.executor": "Debug",
-    "Python.ex002 (1).executor": "Debug",
-    "Python.ex002.executor": "Debug",
-    "Python.ex14.executor": "Debug",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Python.06ex01.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.aula06a.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.aula06b.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.aula07a.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des07.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des08.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des10.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des11.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des12.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des13.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des14.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.desafio05.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.desafios06.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.dex09.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.ex000.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex001.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.ex002 (1).executor&quot;: &quot;Debug&quot;,
+    &quot;Python.ex002.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.ex14.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.des15">
     <configuration name="des11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
