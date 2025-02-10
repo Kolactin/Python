@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="127ecea5-98e6-4d7f-9c8a-8105130c32fd" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aulas_python/aula09.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aulas_python/aula09/aula09a.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aulas_python/aula09/aula09a.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aulas_python/aula09/aula09a.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,49 +30,72 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Python.06ex01.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.aula06a.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.aula06b.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.aula07a.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.aula08a.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.des07.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.des08.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.des10.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.des11.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.des12.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.des13.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.des14.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.des16.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.des17.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.des18.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.des19.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.des20.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.des21.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.desafio05.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.desafios06.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.dex09.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.ex000.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex001.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.ex002 (1).executor&quot;: &quot;Debug&quot;,
-    &quot;Python.ex002.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.ex14.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.sorteio.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/KOLACTIN/OneDrive/Documentos/Studys/python/desafios&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.06ex01.executor": "Debug",
+    "Python.aula06a.executor": "Debug",
+    "Python.aula06b.executor": "Debug",
+    "Python.aula07a.executor": "Debug",
+    "Python.aula08a.executor": "Debug",
+    "Python.aula09a.executor": "Debug",
+    "Python.des07.executor": "Debug",
+    "Python.des08.executor": "Debug",
+    "Python.des10.executor": "Debug",
+    "Python.des11.executor": "Debug",
+    "Python.des12.executor": "Debug",
+    "Python.des13.executor": "Debug",
+    "Python.des14.executor": "Debug",
+    "Python.des16.executor": "Debug",
+    "Python.des17.executor": "Debug",
+    "Python.des18.executor": "Debug",
+    "Python.des19.executor": "Debug",
+    "Python.des20.executor": "Debug",
+    "Python.des21.executor": "Debug",
+    "Python.desafio05.executor": "Debug",
+    "Python.desafios06.executor": "Debug",
+    "Python.dex09.executor": "Debug",
+    "Python.ex000.executor": "Run",
+    "Python.ex001.executor": "Debug",
+    "Python.ex002 (1).executor": "Debug",
+    "Python.ex002.executor": "Debug",
+    "Python.ex14.executor": "Debug",
+    "Python.sorteio.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/KOLACTIN/OneDrive/Documentos/Studys/python/desafios"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\KOLACTIN\OneDrive\Documentos\Studys\python\desafios" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.sorteio">
+  <component name="RunManager" selected="Python.aula09a">
+    <configuration name="aula09a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aulas_python/aula09" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aulas_python/aula09/aula09a.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="des18" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
@@ -87,28 +110,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/des18.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="des19" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/desafios" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/des19.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,11 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.aula09a" />
         <item itemvalue="Python.sorteio" />
         <item itemvalue="Python.des21" />
         <item itemvalue="Python.des20" />
         <item itemvalue="Python.des18" />
-        <item itemvalue="Python.des19" />
       </list>
     </recent_temporary>
   </component>
