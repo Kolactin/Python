@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="127ecea5-98e6-4d7f-9c8a-8105130c32fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/desafios/des22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/des23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/des24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/des25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/des26.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="127ecea5-98e6-4d7f-9c8a-8105130c32fd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,6 +54,7 @@
     "Python.des24.executor": "Debug",
     "Python.des25.executor": "Debug",
     "Python.des26.executor": "Debug",
+    "Python.des27.executor": "Debug",
     "Python.desafio05.executor": "Debug",
     "Python.desafios06.executor": "Debug",
     "Python.dex09.executor": "Debug",
