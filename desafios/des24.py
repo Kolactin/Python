@@ -1,0 +1,5 @@
+city = input("informe o nome da cidade")
+ciU = city.upper()
+ci = ciU.split()
+nome = ciU.find("SANTO")
+print(nome)
