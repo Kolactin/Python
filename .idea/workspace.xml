@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="127ecea5-98e6-4d7f-9c8a-8105130c32fd" name="Changes" comment="" />
+    <list default="true" id="127ecea5-98e6-4d7f-9c8a-8105130c32fd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Aulas_python/aula10/aula10a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/des28.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/des29.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/des30.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/des31.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/des32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/des33.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/des34.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/des35.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aulas_python/aula08/aula08a.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aulas_python/aula08/aula08a.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +48,7 @@
     "Python.aula07a.executor": "Debug",
     "Python.aula08a.executor": "Debug",
     "Python.aula09a.executor": "Debug",
+    "Python.aula10a.executor": "Debug",
     "Python.des07.executor": "Debug",
     "Python.des08.executor": "Debug",
     "Python.des10.executor": "Debug",
@@ -55,6 +68,14 @@
     "Python.des25.executor": "Debug",
     "Python.des26.executor": "Debug",
     "Python.des27.executor": "Debug",
+    "Python.des28.executor": "Debug",
+    "Python.des29.executor": "Debug",
+    "Python.des30.executor": "Debug",
+    "Python.des31.executor": "Debug",
+    "Python.des32.executor": "Debug",
+    "Python.des33.executor": "Debug",
+    "Python.des34.executor": "Debug",
+    "Python.des35.executor": "Debug",
     "Python.desafio05.executor": "Debug",
     "Python.desafios06.executor": "Debug",
     "Python.dex09.executor": "Debug",
@@ -76,8 +97,8 @@
       <recent name="C:\Users\KOLACTIN\OneDrive\Documentos\Studys\python\desafios" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.des27">
-    <configuration name="des23" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.des35">
+    <configuration name="des31" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -90,7 +111,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/des23.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/des31.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="des24" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="des32" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -112,7 +133,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/des24.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/des32.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,7 +142,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="des25" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="des33" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -134,7 +155,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/des25.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/des33.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,7 +164,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="des26" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="des34" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -156,7 +177,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/des26.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/des34.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,7 +186,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="des27" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="des35" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -178,7 +199,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/des27.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/des35.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,11 +210,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.des27" />
-        <item itemvalue="Python.des26" />
-        <item itemvalue="Python.des25" />
-        <item itemvalue="Python.des24" />
-        <item itemvalue="Python.des23" />
+        <item itemvalue="Python.des35" />
+        <item itemvalue="Python.des34" />
+        <item itemvalue="Python.des33" />
+        <item itemvalue="Python.des32" />
+        <item itemvalue="Python.des31" />
       </list>
     </recent_temporary>
   </component>
