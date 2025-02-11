@@ -3,6 +3,6 @@ lim = 70
 multa = (vel - lim) * 7
 
 if (vel > lim):
-    print("Você foi multado em R${}".format(multa))
+    print("Você foi multado em R${:.2f}".format(multa))
 else:
     print("Você está dentro do limite de velocidade permitido")

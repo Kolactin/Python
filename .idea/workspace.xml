@@ -5,17 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="127ecea5-98e6-4d7f-9c8a-8105130c32fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Aulas_python/aula10/aula10a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/des28.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/des29.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/des30.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/des31.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/des32.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/des33.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/des34.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/des35.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas_python/aula11/aula11a.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aulas_python/aula08/aula08a.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aulas_python/aula08/aula08a.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafios/des28.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/des28.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafios/des29.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/des29.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,66 +32,66 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Python.06ex01.executor": "Debug",
-    "Python.aula06a.executor": "Debug",
-    "Python.aula06b.executor": "Debug",
-    "Python.aula07a.executor": "Debug",
-    "Python.aula08a.executor": "Debug",
-    "Python.aula09a.executor": "Debug",
-    "Python.aula10a.executor": "Debug",
-    "Python.des07.executor": "Debug",
-    "Python.des08.executor": "Debug",
-    "Python.des10.executor": "Debug",
-    "Python.des11.executor": "Debug",
-    "Python.des12.executor": "Debug",
-    "Python.des13.executor": "Debug",
-    "Python.des14.executor": "Debug",
-    "Python.des16.executor": "Debug",
-    "Python.des17.executor": "Debug",
-    "Python.des18.executor": "Debug",
-    "Python.des19.executor": "Debug",
-    "Python.des20.executor": "Debug",
-    "Python.des21.executor": "Debug",
-    "Python.des22.executor": "Debug",
-    "Python.des23.executor": "Debug",
-    "Python.des24.executor": "Debug",
-    "Python.des25.executor": "Debug",
-    "Python.des26.executor": "Debug",
-    "Python.des27.executor": "Debug",
-    "Python.des28.executor": "Debug",
-    "Python.des29.executor": "Debug",
-    "Python.des30.executor": "Debug",
-    "Python.des31.executor": "Debug",
-    "Python.des32.executor": "Debug",
-    "Python.des33.executor": "Debug",
-    "Python.des34.executor": "Debug",
-    "Python.des35.executor": "Debug",
-    "Python.desafio05.executor": "Debug",
-    "Python.desafios06.executor": "Debug",
-    "Python.dex09.executor": "Debug",
-    "Python.ex000.executor": "Run",
-    "Python.ex001.executor": "Debug",
-    "Python.ex002 (1).executor": "Debug",
-    "Python.ex002.executor": "Debug",
-    "Python.ex14.executor": "Debug",
-    "Python.sorteio.executor": "Debug",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/KOLACTIN/OneDrive/Documentos/Studys/python/desafios"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Python.06ex01.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.aula06a.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.aula06b.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.aula07a.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.aula08a.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.aula09a.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.aula10a.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des07.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des08.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des10.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des11.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des12.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des13.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des14.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des16.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des17.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des18.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des19.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des20.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des21.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des22.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des23.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des24.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des25.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des26.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des27.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des28.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des29.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des30.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des31.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des32.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des33.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des34.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des35.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.desafio05.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.desafios06.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.dex09.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.ex000.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex001.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.ex002 (1).executor&quot;: &quot;Debug&quot;,
+    &quot;Python.ex002.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.ex14.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.sorteio.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/KOLACTIN/OneDrive/Documentos/Studys/python/desafios&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\KOLACTIN\OneDrive\Documentos\Studys\python\desafios" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.des35">
-    <configuration name="des31" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.des28">
+    <configuration name="des28" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -111,7 +104,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/des31.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/des28.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -210,11 +203,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.des28" />
         <item itemvalue="Python.des35" />
         <item itemvalue="Python.des34" />
         <item itemvalue="Python.des33" />
         <item itemvalue="Python.des32" />
-        <item itemvalue="Python.des31" />
       </list>
     </recent_temporary>
   </component>
