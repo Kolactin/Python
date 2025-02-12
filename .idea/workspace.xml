@@ -5,17 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="127ecea5-98e6-4d7f-9c8a-8105130c32fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Aulas_python/aula12/aula12a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/des36.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/des37.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/des38.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/des39.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/des40.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/des41.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/des42.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/des43.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/des44.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/des45.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas_python/aula13/aula13a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/des46.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/des47.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/des48.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/des49.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/des50.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/des51.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/des52.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/des53.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,6 +86,14 @@
     "Python.des43.executor": "Debug",
     "Python.des44.executor": "Debug",
     "Python.des45.executor": "Debug",
+    "Python.des46.executor": "Debug",
+    "Python.des47.executor": "Debug",
+    "Python.des48.executor": "Debug",
+    "Python.des49.executor": "Debug",
+    "Python.des50.executor": "Debug",
+    "Python.des51.executor": "Debug",
+    "Python.des52.executor": "Debug",
+    "Python.des53.executor": "Debug",
     "Python.desafio05.executor": "Debug",
     "Python.desafios06.executor": "Debug",
     "Python.dex09.executor": "Debug",
@@ -109,8 +115,8 @@
       <recent name="C:\Users\KOLACTIN\OneDrive\Documentos\Studys\python\desafios" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.des45">
-    <configuration name="des41" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.des53">
+    <configuration name="des49" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,7 +129,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/des41.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/des49.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="des42" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="des50" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -145,7 +151,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/des42.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/des50.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,7 +160,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="des43" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="des51" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -167,7 +173,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/des43.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/des51.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,7 +182,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="des44" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="des52" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -189,7 +195,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/des44.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/des52.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -198,7 +204,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="des45" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="des53" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -211,7 +217,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/des45.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/des53.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -222,11 +228,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.des45" />
-        <item itemvalue="Python.des44" />
-        <item itemvalue="Python.des43" />
-        <item itemvalue="Python.des42" />
-        <item itemvalue="Python.des41" />
+        <item itemvalue="Python.des53" />
+        <item itemvalue="Python.des52" />
+        <item itemvalue="Python.des51" />
+        <item itemvalue="Python.des50" />
+        <item itemvalue="Python.des49" />
       </list>
     </recent_temporary>
   </component>
