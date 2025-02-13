@@ -1,11 +1,16 @@
-pal = input("Informe uma frase /palavra para saber se é um palíndromo")
-pala = pal.upper()
-palaNS = pala.split()
-palaI = pala[::-1]
-palaiNS = palaI.split()
-print("A palavra {} resulta em {}".format(pala,palaiNS))
+pal = str(input("Informe uma frase /palavra para saber se é um palíndromo")).strip().upper() # tira espaços antes e dps e deixa maiúscula
+palS = pal.split()
+palavra = "".join(palS)
+inverso = ""
 
-if palaiNS == palaNS:
-    print("É PALÍNDROMO")
+for c in range(len(palavra)-1, -1,-1):
+    inverso += palavra[c]
+
+if palavra == inverso:
+    print("É UM PALÍNDROMO!")
 else:
     print("NÃO É PALÍNDROMO!")
+
+print("O inverso de {}, é {}".format(palavra, inverso))
+
+# o for pode ser substituido pela solução utilizando o metodo [::-1]
