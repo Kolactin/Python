@@ -20,6 +20,6 @@ for c in range(0,4):
 
 med = totId / 4
 
-print("A média da idade go grupo é {}".format(med))
+print("A média da idade do grupo é {}".format(med))
 print(homem)
 print(mulher)
