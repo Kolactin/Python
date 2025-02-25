@@ -12,17 +12,16 @@ pMaior = pMenor = []
 
 for pos, n in enumerate(lista):
     if n >= maior:
-        iMa = -1
-        iMa += 1
+        iMa = 0
         maior = n
-        pMaior.insert(iMa,pos)
+        pMaior.append(pos)
+        iMa += 1
 
 
     if n <= menor:
-        if n < menor:
-            iMe = -1
-            iMe += 1
+            iMe = 0
             menor = n
-            pMenor.insert(iMe, pos)
+            pMenor.append(pos)
+            iMe += 1
 
 print(f"A lista é composta por {lista}, sendo o maior número {maior} na posição {pMaior} e o menor número {menor} na posição {pMenor}")

@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="127ecea5-98e6-4d7f-9c8a-8105130c32fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Aulas_python/aula17/aula17b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/des78.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/des79.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aulas_python/aula17/aula17a.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aulas_python/aula17/aula17a.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aulas_python/aula13/aula13a.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aulas_python/aula13/aula13a.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafios/des78.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/des78.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,6 +111,7 @@
     "Python.des76.executor": "Debug",
     "Python.des77.executor": "Run",
     "Python.des78.executor": "Run",
+    "Python.des79.executor": "Run",
     "Python.desafio05.executor": "Debug",
     "Python.desafios06.executor": "Debug",
     "Python.dex09.executor": "Debug",
@@ -133,29 +134,7 @@
       <recent name="C:\Users\KOLACTIN\OneDrive\Documentos\Studys\python\desafios" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.des78">
-    <configuration name="aula16a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aulas_python/aula16" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aulas_python/aula16/aula16a.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.des79">
     <configuration name="aula17a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
@@ -244,13 +223,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="des79" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/desafios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/des79.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.des79" />
         <item itemvalue="Python.des78" />
         <item itemvalue="Python.aula17a" />
         <item itemvalue="Python.aula17b" />
         <item itemvalue="Python.des77" />
-        <item itemvalue="Python.aula16a" />
       </list>
     </recent_temporary>
   </component>
