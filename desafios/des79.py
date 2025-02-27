@@ -7,7 +7,9 @@ while r != 2:
     num = int(input(f"informe o {c}º valor:"))
 
     if num in n:
-        print("Esse número já foi implementado na lista!")
+        while num in n:
+            print("Esse número já foi implementado na lista!")
+            num = int(input(f"informe o {c}º valor:"))
     else:
         n.append(num)
         print("Número adicionado à lista")

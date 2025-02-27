@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="127ecea5-98e6-4d7f-9c8a-8105130c32fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/desafios/des80.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/des81.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/des82.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafios/des78.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/des78.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafios/des79.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/des79.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,111 +31,111 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Python.06ex01.executor": "Debug",
-    "Python.aula06a.executor": "Debug",
-    "Python.aula06b.executor": "Debug",
-    "Python.aula07a.executor": "Debug",
-    "Python.aula08a.executor": "Debug",
-    "Python.aula09a.executor": "Debug",
-    "Python.aula10a.executor": "Debug",
-    "Python.aula12a.executor": "Debug",
-    "Python.aula14.executor": "Debug",
-    "Python.aula16a.executor": "Debug",
-    "Python.aula17a.executor": "Run",
-    "Python.aula17b.executor": "Run",
-    "Python.des07.executor": "Debug",
-    "Python.des08.executor": "Debug",
-    "Python.des10.executor": "Debug",
-    "Python.des11.executor": "Debug",
-    "Python.des12.executor": "Debug",
-    "Python.des13.executor": "Debug",
-    "Python.des14.executor": "Debug",
-    "Python.des16.executor": "Debug",
-    "Python.des17.executor": "Debug",
-    "Python.des18.executor": "Debug",
-    "Python.des19.executor": "Debug",
-    "Python.des20.executor": "Debug",
-    "Python.des21.executor": "Debug",
-    "Python.des22.executor": "Debug",
-    "Python.des23.executor": "Debug",
-    "Python.des24.executor": "Debug",
-    "Python.des25.executor": "Debug",
-    "Python.des26.executor": "Debug",
-    "Python.des27.executor": "Debug",
-    "Python.des28.executor": "Debug",
-    "Python.des29.executor": "Debug",
-    "Python.des30.executor": "Debug",
-    "Python.des31.executor": "Debug",
-    "Python.des32.executor": "Debug",
-    "Python.des33.executor": "Debug",
-    "Python.des34.executor": "Debug",
-    "Python.des35.executor": "Debug",
-    "Python.des36.executor": "Debug",
-    "Python.des37.executor": "Debug",
-    "Python.des38.executor": "Debug",
-    "Python.des39.executor": "Debug",
-    "Python.des40.executor": "Debug",
-    "Python.des41.executor": "Debug",
-    "Python.des42.executor": "Debug",
-    "Python.des43.executor": "Debug",
-    "Python.des44.executor": "Debug",
-    "Python.des45.executor": "Debug",
-    "Python.des46.executor": "Debug",
-    "Python.des47.executor": "Debug",
-    "Python.des48.executor": "Debug",
-    "Python.des49.executor": "Debug",
-    "Python.des50.executor": "Debug",
-    "Python.des51.executor": "Debug",
-    "Python.des52.executor": "Debug",
-    "Python.des53.executor": "Debug",
-    "Python.des54.executor": "Debug",
-    "Python.des55.executor": "Debug",
-    "Python.des56.executor": "Debug",
-    "Python.des57.executor": "Debug",
-    "Python.des58.executor": "Debug",
-    "Python.des59.executor": "Debug",
-    "Python.des60.executor": "Debug",
-    "Python.des61.executor": "Debug",
-    "Python.des62.executor": "Debug",
-    "Python.des63.executor": "Debug",
-    "Python.des64.executor": "Debug",
-    "Python.des65.executor": "Debug",
-    "Python.des72.executor": "Debug",
-    "Python.des73.executor": "Debug",
-    "Python.des74.executor": "Debug",
-    "Python.des75.executor": "Debug",
-    "Python.des76.executor": "Debug",
-    "Python.des77.executor": "Run",
-    "Python.des78.executor": "Run",
-    "Python.des79.executor": "Run",
-    "Python.des80.executor": "Run",
-    "Python.des82.executor": "Run",
-    "Python.desafio05.executor": "Debug",
-    "Python.desafios06.executor": "Debug",
-    "Python.dex09.executor": "Debug",
-    "Python.ex000.executor": "Run",
-    "Python.ex001.executor": "Debug",
-    "Python.ex002 (1).executor": "Debug",
-    "Python.ex002.executor": "Debug",
-    "Python.ex14.executor": "Debug",
-    "Python.sorteio.executor": "Debug",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/gamer/Documents/Studys/Python/Aulas_python/aula17"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Python.06ex01.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.aula06a.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.aula06b.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.aula07a.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.aula08a.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.aula09a.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.aula10a.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.aula12a.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.aula14.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.aula16a.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.aula17a.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula17b.executor&quot;: &quot;Run&quot;,
+    &quot;Python.des07.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des08.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des10.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des11.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des12.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des13.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des14.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des16.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des17.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des18.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des19.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des20.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des21.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des22.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des23.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des24.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des25.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des26.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des27.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des28.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des29.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des30.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des31.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des32.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des33.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des34.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des35.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des36.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des37.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des38.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des39.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des40.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des41.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des42.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des43.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des44.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des45.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des46.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des47.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des48.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des49.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des50.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des51.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des52.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des53.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des54.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des55.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des56.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des57.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des58.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des59.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des60.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des61.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des62.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des63.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des64.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des65.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des72.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des73.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des74.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des75.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des76.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.des77.executor&quot;: &quot;Run&quot;,
+    &quot;Python.des78.executor&quot;: &quot;Run&quot;,
+    &quot;Python.des79.executor&quot;: &quot;Run&quot;,
+    &quot;Python.des80.executor&quot;: &quot;Run&quot;,
+    &quot;Python.des82.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio05.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.desafios06.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.dex09.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.ex000.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex001.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.ex002 (1).executor&quot;: &quot;Debug&quot;,
+    &quot;Python.ex002.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.ex14.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.sorteio.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/gamer/Documents/Studys/Python/Aulas_python/aula17&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\gamer\Documents\Studys\Python\Aulas_python\aula17" />
       <recent name="C:\Users\KOLACTIN\OneDrive\Documentos\Studys\python\desafios" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.des82">
+  <component name="RunManager" selected="Python.des79">
     <configuration name="des78" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
@@ -249,11 +248,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.des79" />
+        <item itemvalue="Python.des78" />
         <item itemvalue="Python.des82" />
         <item itemvalue="Python.des80" />
         <item itemvalue="Python.des81" />
-        <item itemvalue="Python.des79" />
-        <item itemvalue="Python.des78" />
       </list>
     </recent_temporary>
   </component>

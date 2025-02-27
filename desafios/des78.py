@@ -1,27 +1,33 @@
 lista = []
 comp = int(input("Informe o valor inicial da lista"))
 c = 0
-
+maior = menor = 0
 while c < comp:
     num = int(input("Informe um valor"))
     lista.append(num)
+
+    if c == 0:
+        maior = menor = lista[c]
+    else:
+        if lista[c] > maior:
+            maior = lista[c]
+        elif lista[c] < menor:
+            menor = lista[c]
+
     c += 1
 
-maior = menor = lista[0]
-pMaior = pMenor = []
-
+print(f"O maior valor foi {maior} nas posições:", end="")
 for pos, n in enumerate(lista):
-    if n >= maior:
-        iMa = 0
-        maior = n
-        pMaior.append(pos)
-        iMa += 1
+    if n == maior:
+        print(f" {pos}...", end="")
 
+print("")
 
-    if n <= menor:
-            iMe = 0
-            menor = n
-            pMenor.append(pos)
-            iMe += 1
+print(f"O menor valor está na posições:", end="")
+for pos, n in enumerate(lista):
+    if n == menor:
+            print(f" {pos}...", end="")
 
-print(f"A lista é composta por {lista}, sendo o maior número {maior} na posição {pMaior} e o menor número {menor} na posição {pMenor}")
+print("")
+print("-_"*20)
+print(f"Você digitou {len(lista)} números! A lista é composta por {lista}")
